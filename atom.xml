@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Update.itansuo.info/"/>
-  <updated>2018-07-15T08:54:29.022Z</updated>
+  <updated>2018-07-27T23:16:48.402Z</updated>
   <id>http://Update.itansuo.info/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://Update.itansuo.info/2018/07/28/%E5%8D%87%E7%BA%A7%E6%97%A5%E5%BF%97/"/>
+    <id>http://Update.itansuo.info/2018/07/28/升级日志/</id>
+    <published>2018-07-27T23:13:45.000Z</published>
+    <updated>2018-07-27T23:16:48.402Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;7月15日，博客添加插件&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://Update.itansuo.info/2018/07/28/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://Update.itansuo.info/2018/07/28/测试/</id>
+    <published>2018-07-27T23:13:45.000Z</published>
+    <updated>2018-07-27T23:13:45.282Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
